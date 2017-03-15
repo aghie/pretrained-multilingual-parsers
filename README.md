@@ -38,16 +38,3 @@ TODO
 Vilares, D., Gómez-Rodríguez, C. & Alonso, M. A. (2016, August). One model, two languages: training bilingual parsers with harmonized treebanks. In The 54th Annual Meeting of the Association for Computational Linguistics (p. 425-431).
 
 
-@InProceedings{vilares-gomezrodriguez-alonso:2016:P16-2,
-  author    = {Vilares, David  and  G\'{o}mez-Rodr\'{i}guez, Carlos  and  Alonso, Miguel A.},
-  title     = {One model, two languages: training bilingual parsers with harmonized treebanks},
-  booktitle = {Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)},
-  month     = {August},
-  year      = {2016},
-  address   = {Berlin, Germany},
-  publisher = {Association for Computational Linguistics},
-  pages     = {425--431},
-  url       = {http://anthology.aclweb.org/P16-2069}
-}
-
-
