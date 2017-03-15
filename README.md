@@ -7,14 +7,21 @@ They were trained using MaltParser 1.7, MaltOptimizer (a customized version) and
 
 ## Models using CPOSTAG information
 
-[de-it] (http://www.grupolys.org/software/PARSERS/universal-tag-sets/bilingual/de_it-liblinear/)
-[de-ja] (http://www.grupolys.org/software/PARSERS/universal-tag-sets/bilingual/de_ja-liblinear/)
-[en-de] (http://www.grupolys.org/software/PARSERS/universal-tag-sets/bilingual/en_de-liblinear/)
-[en-fr] (http://www.grupolys.org/software/PARSERS/universal-tag-sets/bilingual/en_fr-liblinear/)
-[en-id] (http://www.grupolys.org/software/PARSERS/universal-tag-sets/bilingual/en_id-liblinear/)
-[en-it] (http://www.grupolys.org/software/PARSERS/universal-tag-sets/bilingual/en_it-liblinear/)
-[en-ja] (http://www.grupolys.org/software/PARSERS/universal-tag-sets/bilingual/en_de-liblinear/)
-[en-pt] (http://www.grupolys.org/software/PARSERS/universal-tag-sets/bilingual/en_pt-liblinear/)
+[de-it](http://www.grupolys.org/software/PARSERS/universal-tag-sets/bilingual/de_it-liblinear/)
+
+[de-ja](http://www.grupolys.org/software/PARSERS/universal-tag-sets/bilingual/de_ja-liblinear/)
+
+[en-de](http://www.grupolys.org/software/PARSERS/universal-tag-sets/bilingual/en_de-liblinear/)
+
+[en-fr](http://www.grupolys.org/software/PARSERS/universal-tag-sets/bilingual/en_fr-liblinear/)
+
+[en-id](http://www.grupolys.org/software/PARSERS/universal-tag-sets/bilingual/en_id-liblinear/)
+
+[en-it](http://www.grupolys.org/software/PARSERS/universal-tag-sets/bilingual/en_it-liblinear/)
+
+[en-ja](http://www.grupolys.org/software/PARSERS/universal-tag-sets/bilingual/en_de-liblinear/)
+
+[en-pt](http://www.grupolys.org/software/PARSERS/universal-tag-sets/bilingual/en_pt-liblinear/)
 
 
 ## Models using POSTAG
