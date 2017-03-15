@@ -5,32 +5,23 @@ They were trained using MaltParser 1.7, MaltOptimizer (a customized version) and
 
 # Models
 
-## Models using CPOSTAG information
+## Models using CPOSTAG (universal tags) information
 
-[de-it](http://www.grupolys.org/software/PARSERS/universal-tag-sets/bilingual/de_it-liblinear/)
-
-[de-ja](http://www.grupolys.org/software/PARSERS/universal-tag-sets/bilingual/de_ja-liblinear/)
-
-[en-de](http://www.grupolys.org/software/PARSERS/universal-tag-sets/bilingual/en_de-liblinear/)
-
-[en-fr](http://www.grupolys.org/software/PARSERS/universal-tag-sets/bilingual/en_fr-liblinear/)
-
-[en-id](http://www.grupolys.org/software/PARSERS/universal-tag-sets/bilingual/en_id-liblinear/)
-
-[en-it](http://www.grupolys.org/software/PARSERS/universal-tag-sets/bilingual/en_it-liblinear/)
-
-[en-ja](http://www.grupolys.org/software/PARSERS/universal-tag-sets/bilingual/en_de-liblinear/)
-
-[en-pt](http://www.grupolys.org/software/PARSERS/universal-tag-sets/bilingual/en_pt-liblinear/)
+[bilingual models](http://grupolys.org/software/PARSERS/universal-tag-sets/bilingual-parsers-ut-universal-tags)
+[monolingual models](http://grupolys.org/software/PARSERS/universal-tag-sets/monolingual-parsers-ut-universal-tags)(used as baseline for comparison)
 
 
-## Models using POSTAG
+## Models using POSTAG (specific tags) information
 
-TODO
+TODO: add these
 
 # Execution
 
-TODO
+java -jar -Xmx2000m maltparser-1.7.2/maltparser-1.7.2.jar - MODEL_MCO -i PATH_INPUT_CONLL -o PATH_OUTPUT_CONLL -m parse
+
+Example:
+
+java -jar -Xmx2000m maltparser-1.7.2/maltparser-1.7.2.jar -c es_fr-liblinear_google_universal_maltoptimizer -i es-universal-test.conll -o es-universal-test-output.conll -m parse
 
 
 # References
