@@ -9,7 +9,7 @@ They were trained using MaltParser 1.7, MaltOptimizer (a customized version) and
 
 [bilingual models](http://grupolys.org/software/PARSERS/universal-tag-sets/bilingual-parsers-ut-universal-tags)
 
-[monolingual models](http://grupolys.org/software/PARSERS/universal-tag-sets/monolingual-parsers-ut-universal-tags)(used as baseline for comparison)
+[monolingual models](http://grupolys.org/software/PARSERS/universal-tag-sets/monolingual-parsers-ut-universal-tags) (used as baseline for comparison)
 
 
 ## Models using POSTAG (specific tags) information
