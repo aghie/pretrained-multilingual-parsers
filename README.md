@@ -14,7 +14,10 @@ They were trained using MaltParser 1.7, MaltOptimizer (a customized version) and
 
 ## Models using POSTAG (specific tags) information
 
-TODO: add these
+[bilingual models](http://www.grupolys.org/software/PARSERS/specific-tag-sets/bilingual-parsers-ut-x-postags)
+[monolingual models](http://www.grupolys.org/software/PARSERS/specific-tag-sets/monolingual-parsers-ut-x-postags)
+
+Note: To execute these models, in the target conll first copy the column POSTAG into the column CPOSTAG first 
 
 # Execution
 
